@@ -1,5 +1,3 @@
-# Hello there! I'm using GitHub
-
 **End-to-end developer, from concept to production.**  
 
 I build systems, not just features.  
@@ -34,9 +32,6 @@ Always looking for new challenges and ways to learn and improve, but always with
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltamargo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=danieltamargo&icon=0&color=6)](https://visitcount.itsvg.in)
-
-
----
 
 # Tech Stack
 

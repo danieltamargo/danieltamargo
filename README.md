@@ -4,7 +4,7 @@ I build systems, not just features.
 
 I’m a Full-Stack Developer who moves comfortably from database modeling to frontend experience, from payment integrations to deployment pipelines. I focus on building software that is clean, secure, and scalable without unnecessary complexity.  
 
-My work spans backend engineering (Django, Flask, Laravel, Spring Boot), modern frontend development (Svelte, Astro, Flutter), and solid database design (SQL & NoSQL). I’ve built SaaS platforms, automated billing flows with Stripe, designed REST APIs, and structured systems for long-term maintainability.  
+My work spans backend engineering, modern frontend development, and solid database design (SQL & NoSQL). I’ve built SaaS platforms, automated billing flows with Stripe, designed REST APIs, and structured systems for long-term maintainability.  
 
 What defines me:
 * Clarity over cleverness

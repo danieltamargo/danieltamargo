@@ -27,7 +27,7 @@ Always looking for new challenges and ways to learn and improve, but always with
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danieltamargosaiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tamargo-saiz/) 
 
-![](https://github-readme-stats.vercel.app/api?username=danieltamargo&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=danieltamargo&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=danieltamargo&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltamargo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
